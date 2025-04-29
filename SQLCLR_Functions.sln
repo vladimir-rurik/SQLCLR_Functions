@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLCLR_Functions", "SQLCLR_Functions\SQLCLR_Functions.sqlproj", "{189DD53D-4C75-4669-BBFE-5EB13A8F5155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|x64.ActiveCfg = Debug|x64
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|x64.Build.0 = Debug|x64
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Debug|x64.Deploy.0 = Debug|x64
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|x64.ActiveCfg = Release|x64
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|x64.Build.0 = Release|x64
+		{189DD53D-4C75-4669-BBFE-5EB13A8F5155}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A3AD98-6E34-4D49-B03E-DE7B835C6A01}
+	EndGlobalSection
+EndGlobal
