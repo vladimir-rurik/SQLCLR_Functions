@@ -1,5 +1,4 @@
-﻿```markdown
-# SQLCLR_Functions
+﻿# SQLCLR_Functions
 
 This project demonstrates how to create and deploy SQL CLR functions in a Microsoft SQL Server database. It includes two main user-defined functions for encryption and decryption of text using a password.
 
@@ -169,6 +168,3 @@ Hello, SQL CLR world!
    - CLR integration can be slower if used for very large text in a tight loop. For high-volume encryption tasks, weigh alternatives or optimize the approach (e.g., calling CLR in batches).
 
 ---
-
-```
-```
